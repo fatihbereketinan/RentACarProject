@@ -1,1 +1,1 @@
-Versiyonlar adım adım geliştirme aşamalarını gösterme amacıyla eklenmiştir. Her verisyonda yapılan düzenlemeler Readme dosyasında açıklanmıştır.
+Versiyonlar adım adım geliştirme aşamalarını gösterme amacıyla eklenmiştir. Her versiyonda yapılan düzenlemeler Readme dosyasında açıklanmıştır.
