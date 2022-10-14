@@ -5,4 +5,4 @@
 5. Create these entities in your project.
 6. Write CRUD operations.
 7. Code the car rental option.
-8. Rental-->Add In order for the car to be rented, the car must be delivered.
+8. Rental-->Add In order for the car to be rented, the car must be delivered..
